@@ -1,0 +1,44 @@
+.main_container{
+  height: 100vh;
+  
+}
+.history_search_container{
+  background-color:  #3367d6;
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+  align-items: center;
+  align-content: space-between;
+}
+.search{
+background-color:  #2850a7;
+height: 25px;
+}
+.input{
+  background-color: #2850a7;
+  width: 250px;
+  border-style: none;
+  height: 25px;
+  margin-left: 3px;
+}
+.input_container{
+  display: flex;
+}
+.ulist{
+  box-shadow: 0px 4px 16px 0px ;
+width: 90%;
+}
+.box{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.paragraph{
+  color: #3367d6;
+  font-size: 23px;
+  font-weight: 500;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  margin-top: 100px;
+}
